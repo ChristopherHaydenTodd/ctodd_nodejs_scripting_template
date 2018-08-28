@@ -1,0 +1,12 @@
+{
+  "name": "ctodd_nodejs_scripting_templates",
+  "version": "1.0.0",
+  "description": "Christopher Todd NodeJS Scripting Template",
+  "main": "index.js",
+  "author": "Christopher Todd",
+  "license": "ISC",
+  "dependencies": {
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.6.1"
+  }
+}
